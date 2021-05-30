@@ -12,11 +12,16 @@ You can add your daily basic task with time,date and category.
 <p align="center">
 <img src=https://user-images.githubusercontent.com/83392576/120098656-cc10d180-c154-11eb-8870-990a69431812.png width="350" height="700"/>
 </p>
-  You can add Date and time
+  <b>You can add Date and time<b>
   <p align="center">
  <img src=https://user-images.githubusercontent.com/83392576/120098855-e26b5d00-c155-11eb-97ae-69d3c30c9fec.png width="350" height="700"/>
+  </p><br><br>
+  
+  
+    <b>Time layout will be seen after setting date <b>
+   <p align="center">
+ <img src=https://user-images.githubusercontent.com/83392576/120098978-953bbb00-c156-11eb-9c50-f7fd4621df43.png  width="350" height="700"/>
   </p>
-
 
 
 
